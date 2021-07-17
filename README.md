@@ -1,6 +1,5 @@
 ### Hi ! 
 
-`she/her`
-`16 yo`
-
-**Fedora user**
+`she/her 
+ 16 yo
+ Fedora`
