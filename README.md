@@ -1,5 +1,14 @@
-### Hi ! 
+# About me ! 
+```
+Pronouns: she/her 
+Distro: Fedora
+ ```
 
-`she/her 
- 16 yo
- Fedora`
+# Languages !
+
+### Programming languages:
+`C++, Python, HTML/CSS/JS`
+
+### Languages:
+`FR, EN`,
+**Currently learning Russian**
