@@ -16,7 +16,7 @@ Distro: Fedora
 # Profils !
 
 **TryHackMe**
-<script src="https://tryhackme.com/badge/370398"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/n3k0girl.png" alt="TryHackMe">
 
 **HackThebox**
-<script src="https://www.hackthebox.eu/badge/530691"></script>
+<img src="http://www.hackthebox.eu/badge/image/530691" alt="Hack The Box">
