@@ -14,8 +14,7 @@ Distro: Fedora
 `C++, Python, HTML/CSS/JS`
 
 ### Languages:
-`FR, EN`,
-**Currently learning Russian**
+🇨🇵 🇱🇷 
 
 ## Profils !
 
