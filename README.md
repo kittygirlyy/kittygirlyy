@@ -1,4 +1,4 @@
-<img src="https://w.wallhaven.cc/full/dg/wallhaven-dg58wj.png">
+<img src="https://cdn.discordapp.com/attachments/806498595943350302/895718052094701628/noresized.png" width="1000" height="250">
 
 # Welcome ! 💜
 
@@ -21,9 +21,8 @@
 
 ## Profils !
 
-**TryHackMe**
 <img src="https://media.discordapp.net/attachments/854106418038308874/887348873754972190/n3k0girl.png">
-**HackThebox**
+
 <img src="http://www.hackthebox.eu/badge/image/530691" alt="Hack The Box">
 
 ## Stats !
