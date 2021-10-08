@@ -1,6 +1,12 @@
+![Count](https://profile-counter.glitch.me/n3k0girl/count.svg)
+
 # Welcome ! 💜
 ---
 ## About me !
+```
+she/her, 15 yo, and I love cats 💖
+```
+## Softs !
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=black)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)]()
@@ -28,5 +34,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=n3k0girl&theme=blue-green)]()
 
 ---
-
-[![Follow](https://img.shields.io/github/followers/n3k0girl.svg?style=social&label=Follow&maxAge=2592000)]()
+<p align="center">
+  <img src="https://img.shields.io/github/followers/n3k0girl?style=social">
+  <img src="https://img.shields.io/github/stars/n3k0girl?style=social">
+  <img src="https://komarev.com/ghpvc/?username=n3k0girl&color=blue"> </p>
