@@ -10,6 +10,7 @@ she/her, 15 yo, and I love cats 💖
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=black)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)]()
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=black)](https://open.spotify.com/user/icara___234?si=gm4fZt8OSKuW0fO8tbeTCQ&utm_source=copy-link)
 
 ## Languages !
 
