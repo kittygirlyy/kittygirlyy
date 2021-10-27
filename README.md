@@ -4,7 +4,7 @@
 ---
 ## About me !
 ```
-she/her, 15 yo, and I love cats 💖
+she/her, 16 yo, and I love cats 💖
 ```
 ## Softs !
 
