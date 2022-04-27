@@ -34,6 +34,8 @@ she/her, 16 yo, and I love cats 💖
 
 <img src="http://www.hackthebox.eu/badge/image/530691" alt="Hack The Box">
 
+<img src="https://discord.c99.nl/widget/theme-3/210620200234647552.png">
+
 ## Stats !
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=n3k0girl&theme=blue-green)]()
