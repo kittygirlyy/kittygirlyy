@@ -1,5 +1,3 @@
-![Count](https://profile-counter.glitch.me/n3k0girl/count.svg)
-
 # Welcome ! 💜
 ---
 ## About me !
