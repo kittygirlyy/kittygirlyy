@@ -28,7 +28,7 @@ she/her, 16 yo, and I love cats 💖
 
 ## Profils !
 
-<img src="https://media.discordapp.net/attachments/854106418038308874/887348873754972190/n3k0girl.png">
+<img src="https://tryhackme-badges.s3.amazonaws.com/n3k0girl.png" alt="TryHackMe">
 
 <img src="http://www.hackthebox.eu/badge/image/530691" alt="Hack The Box">
 
