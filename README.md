@@ -2,7 +2,7 @@
 ---
 ## About me !
 ```
-she/her, 16 yo, and I love cats 💖
+she/her, 17 yo, and I love cats 💖
 ```
 
 ## Profils !
