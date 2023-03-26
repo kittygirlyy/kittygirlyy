@@ -20,7 +20,7 @@
                                                             `-    \`_`"'-
 ```
 <div style="display : flex; width : 100%; padding-left : 1.5rem; justify-content: space-around;">
-  <img style="width="50"; height="50";" src="https://cdn.discordapp.com/attachments/1089646564479344669/1089646689918390352/iu.png" alt="Discord">
-  <img style="width="50"; height="50";" src="https://cdn.discordapp.com/attachments/1089646564479344669/1089646723997126717/iu.png" alt="Spotify">
-  <img style="width="50"; height="50";" src="https://cdn.discordapp.com/attachments/1089646564479344669/1089646743861338112/iu.png" alt="Youtube">
+  <a href="https://discord.com" target="_blank"><img src="https://cdn.discordapp.com/attachments/1089646564479344669/1089646689918390352/iu.png" width="50" height="50"></a>
+  <a href="https://spotify.com" target="_blank"><img src="https://cdn.discordapp.com/attachments/1089646564479344669/1089646723997126717/iu.png" width="50" height="50"></a>
+  <a href="https://spotify.com" target="_blank"><img src="https://cdn.discordapp.com/attachments/1089646564479344669/1089646743861338112/iu.png" width="50" height="50"></a>
 </div>
