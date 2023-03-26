@@ -1,11 +1,11 @@
 # Welcome ! 💜
----
-## About me !
+
+## About me ! 🐾
 ```
 she/her, 17 yo, and I love cats 💖
 ```
 
-## Profils !
+---
 
 <div style="display : flex; width : 100%; padding-left : 1.5rem">
   <img style="width : 33%; height : auto;" src="https://tryhackme-badges.s3.amazonaws.com/n3k0girl.png" alt="TryHackMe">
