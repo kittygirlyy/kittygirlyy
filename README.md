@@ -13,12 +13,7 @@
   <img style="width : 33%; height : auto;" src="http://www.hackthebox.eu/badge/image/530691" alt="Hack The Box">
 </div>
 
-```markdown
-                                                   _._     _,-'""`-._
-                                                  (,-.`._,'(       |\`-/|
-                                                      `-.-' \ )-`( , o o)
-                                                            `-    \`_`"'-
-```
+---
 
 <div align="center">
   <a href="https://discord.gg/linuxfr" target="_blank"><img src="https://cdn.discordapp.com/attachments/1089646564479344669/1089646689918390352/iu.png" width="50" height="50"></a>
