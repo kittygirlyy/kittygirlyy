@@ -8,6 +8,4 @@
     🐾 Music • Games • Anime • Code
 </pre>
 <br><br>
-<img src="https://github.com/kittygirlyy/.img/blob/main/d2b688357b0c20cebde3745a3043108d-3590076793.gif" height="100" />
-<br><br><br><br><br>
 </div>
