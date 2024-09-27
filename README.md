@@ -15,9 +15,11 @@
     
 
 <img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/r_60/v1727377967/jpA9elt_yhu6cj.png" width="25%" align="left" />
+<br><br>
+<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/r_500/v1727448589/iu_ndpms3.jpg" width="20%" align="right" />
+<br><br><br><br>
 
 
-<br><br><br><br><br><br>
 
 <table align="center">
   <th>Repository</th></tr>
@@ -25,6 +27,9 @@
   <td>mewVM <-> VM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kittygirlyy/mewVM">📌</a></td></tr>
   <td>Paladium mc <-> Minecraft &nbsp;&nbsp;&nbsp;<a href="https://github.com/kittygirlyy/paladium-mc">📌</a></td></tr>
 </table>
+
+
+
       
 <br><br><br><br><br>
 
