@@ -16,7 +16,7 @@
 
 <img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/r_60/v1727377967/jpA9elt_yhu6cj.png" width="25%" align="left" />
 <br><br>
-<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/t_Profile/v1732043528/iu_rloqoz.jpg" width="20%" align="right" />
+<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/t_Profile/v1742473757/87582918_thqs1a.jpg" width="20%" align="right" />
 <br><br><br><br>
 
 
